@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = Scott Johnson scottmacaulayjohnson@googlemail.com
+	email = scottmacaulayjohnson@googlemail.com
+	name = Scott Johnson
